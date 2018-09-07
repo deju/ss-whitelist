@@ -1,0 +1,2 @@
+
+## whitelist for shadowsocks client
